@@ -1,8 +1,5 @@
 package otherVersion;
 
-import java.util.Locale;
-import java.util.Scanner;
-
 public class User {
     public static void main(String[] args) {
         InputUser inputUser=new InputUser();
